@@ -1,7 +1,0 @@
-name = "rin"
-main = "apps/server/src/index.ts" # Check if your folder is named 'apps' instead of 'packages'
-compatibility_date = "2024-04-01"
-
-[assets]
-directory = "./dist/client"
-binding = "ASSETS"

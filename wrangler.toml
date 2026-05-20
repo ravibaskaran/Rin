@@ -1,5 +1,5 @@
 name = "rin"
-main = "./packages/server/src/index.ts" # Adjust to your primary server entry point if different
+main = "apps/server/src/index.ts" # Check if your folder is named 'apps' instead of 'packages'
 compatibility_date = "2024-04-01"
 
 [assets]

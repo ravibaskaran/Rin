@@ -1,0 +1,7 @@
+name = "rin"
+main = "./packages/server/src/index.ts" # Adjust to your primary server entry point if different
+compatibility_date = "2024-04-01"
+
+[assets]
+directory = "./dist/client"
+binding = "ASSETS"
